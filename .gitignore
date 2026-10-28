@@ -1,0 +1,10 @@
+backend/private/
+backend/venv/
+backend/__pycache__/
+
+private/
+venv/
+__pycache__/
+.env/
+
+frontend/.env
