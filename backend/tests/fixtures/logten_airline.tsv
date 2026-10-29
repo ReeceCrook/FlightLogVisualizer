@@ -1,0 +1,640 @@
+﻿Date,Tail Number,Model,Route,Total Flight Time,PIC,SIC,CFI,Dual Received,Night,IMC,Simulated Instrument,Ground Simulator,Approaches,Hold,Landings,FS Day Landings,FS Night Landings,X-Country,Comments
+1/4/2023,N9192T,PA-44-180,kism KBOW  kism,1.5,1.5,,1.5,,,,,,0,,,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+1/4/2023,#100234,C-172,KVRB KORL KVRB,1.3,1.3,,1.3,,,,,,1,,1,1,0,,
+1/4/2023,N9192T,PA-44-180,korl,1:12,1:12,,1:12,,,,,,1,,5,5,0,,
+1/5/2023,N9192T,PA-44-180,X05 MYNN X05,7.3,7.3,,7.3,,,,,,0,,5,5,0,7.3,"Cross-country with fuel stop, then
+returned VFR on top"
+1/8/2023,N733GB,C-172N,KSFB,1.3,1.3,,1.3,,,,,,0,,1,1,0,,"Stage check, student passed"
+1/8/2023,#100234,C-172,KOCF,1,1,,1,,,,,,0,,5,5,0,,"Customs at MYNN, 45 min delay"
+1/8/2023,N4417P,PA-28-161,KISM MYNN KTPA KISM,7.6,7.6,,,,,,,,0,,3,3,0,7.6,
+1/14/2023,N733GB,C-172N,X05,2,2,,2,,,,,,0,,5,5,0,,"Customs at MYNN, 45 min delay"
+1/14/2023,N4417P,PA-28-161,KBOW MYNN KBOW,6.4,6.4,,6.4,,,,,,2,,1,1,0,6.4,"Stage check, student passed"
+1/17/2023,N9192T,PA-44-180,KBOW,1.8,1.8,,1.8,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+1/17/2023,N733GB,C-172N,KOCF X05 KOCF,2,2,,2,,,,,,2,,5,5,0,,"Student: K. Alvarez, steep turns"
+1/18/2023,N4417P,PA-28-161,KGIF,2,2,,2,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+1/21/2023,N4417P,PA-28-161,KBOW KSFB KBOW,1.2,1.2,,,,,,,,2,,3,3,0,,
+1/21/2023,N9192T,PA-44-180,KMLB KISM KMLB,1.2,1.2,,1.2,,,,,,1,,1,1,0,,
+1/21/2023,#100234,C-172,KBOW,1,1,,1,,,,,,0,,5,5,0,,
+1/22/2023,N9192T,PA-44-180,KBOW,1.3,1.3,,1.3,,,,,,1,,3,3,0,,"Student: K. Alvarez, steep turns"
+1/27/2023,N733GB,C-172N,KISM X04 KISM,2:00,2:00,,2:00,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+1/27/2023,N9192T,PA-44-180,KSFB KPBI KJAX KSFB,5.9,5.9,,5.9,,5.9,,,,2,,,0,5,5.9,
+1/29/2023,N4417P,PA-28-161,X05 KSFB X05,0.8,0.8,,0.8,,,,,,1,,6,6,0,,
+1/29/2023,#100234,C-172,KISM,1.8,1.8,,1.8,,,,,,0,,,1,0,,"Customs at MYNN, 45 min delay"
+1/29/2023,N733GB,C-172N,X04,1.2,1.2,,1.2,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+2/2/2023,N733GB,C-172N,KGIF KLEE KGIF,1.3,1.3,,1.3,,1.3,,,,0,,3,0,3,,
+2/2/2023,N733GB,C-172N,KGIF KSFB KGIF,1.2,1.2,,,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+2/6/2023,N9192T,PA-44-180,KGIF,1.5,1.5,,1.5,,,,,,1,,1,1,0,,
+2/6/2023,#100234,C-172,KMLB KPBI KMLB,2.6,2.6,,2.6,,2.6,,,,0,,,0,5,2.6,"Student: K. Alvarez, steep turns"
+2/9/2023,N733GB,C-172N,KLEE KTLH KLEE,4,4,,,,,,,,2,,6,6,0,4,"Engine-out practice, ""simulated"" only"
+2/9/2023,N733GB,C-172N,X04 KORL X04,2,2,,,,,,,,2,,3,3,0,,"Customs at MYNN, 45 min delay"
+2/15/2023,N733GB,C-172N,KLEE,1.8,1.8,,1.8,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+2/16/2023,N733GB,C-172N,KSFB X05 KSFB,1.5,1.5,,1.5,,,,,,1,,1,1,0,,"Engine-out practice, ""simulated"" only"
+2/16/2023,N4417P,PA-28-161,KVRB KISM KVRB,1.2,1.2,,1.2,,,,,,2,,6,6,0,,
+2/21/2023,N9192T,PA-44-180,KDED KOCF KDED,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+2/21/2023,N733GB,C-172N,KSFB,2,2,,2,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+2/24/2023,N4417P,PA-28-161,KLEE X04 KLEE,1.8,1.8,,1.8,,,,,,1,,6,6,0,,
+2/24/2023,N733GB,C-172N,X04,1.2,1.2,,1.2,,,,,,2,,3,3,0,,
+2/24/2023,#100234,C-172,KISM KMLB KISM,1:12,1:12,,1:12,,,,,,1,,3,3,0,,"Stage check, student passed"
+2/25/2023,N9192T,PA-44-180,X05 KDED X05,1:30,1:30,,1:30,,1:30,,,,1,,1,0,1,,"Customs at MYNN, 45 min delay"
+2/25/2023,N9192T,PA-44-180,KGIF MYNN KTLH KGIF,10.5,10.5,,10.5,,,,,,1,,5,5,0,10.5,
+2/26/2023,N4417P,PA-28-161,KOCF KPBI KOCF,4.5,4.5,,4.5,,,,,,1,,1,1,0,4.5,
+2/26/2023,N9192T,PA-44-180,KVRB KDED KVRB,1.2,1.2,,1.2,,,,,,0,,3,3,0,,"Stage check, student passed"
+3/4/2023,N4417P,PA-28-161,KGIF KOCF KGIF,1,1,,1,,,,,,2,,3,3,0,,
+3/4/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+3/4/2023,#100234,C-172,KISM MYEH KISM,6.7,6.7,,,,,,,,0,,3,3,0,6.7,
+3/5/2023,N9192T,PA-44-180,KGIF,1.5,1.5,,,,,,,,0,,6,6,0,,
+3/5/2023,N4417P,PA-28-161,KDED,1.5,1.5,,,,,,,,0,,5,5,0,,
+3/5/2023,N733GB,C-172N,KGIF KMLB KGIF,1.8,1.8,,1.8,,,,,,2,,3,3,0,,"Engine-out practice, ""simulated"" only"
+3/7/2023,N733GB,C-172N,KISM,1.2,1.2,,1.2,,,,,,0,,3,3,0,,"Customs at MYNN, 45 min delay"
+3/7/2023,N4417P,PA-28-161,X05 X05 X05,1.3,1.3,,1.3,,,,,,2,,1,1,0,,
+3/9/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+3/9/2023,N733GB,C-172N,KISM KMLB KISM,0.8,0.8,,0.8,,,,,,1,,3,3,0,,"Engine-out practice, ""simulated"" only"
+3/9/2023,N4417P,PA-28-161,KISM KSFB KISM,1.8,1.8,,1.8,,,,,,1,,1,1,0,,"Engine-out practice, ""simulated"" only"
+3/10/2023,N733GB,C-172N,KSFB KMLB KSFB,2,2,,2,,,,,,1,,1,1,0,,"Customs at MYNN, 45 min delay"
+3/15/2023,#100234,C-172,X05,1.8,1.8,,,,,,,,2,,5,5,0,,
+3/15/2023,N4417P,PA-28-161,KORL KISM KORL,2,2,,2,,,,,,0,,6,6,0,,
+3/20/2023,N9192T,PA-44-180,X05 X05 X05,1,1,,,,,,,,1,,,6,0,,"Customs at MYNN, 45 min delay"
+3/20/2023,#100234,C-172,KORL KSFB KORL,1.5,1.5,,1.5,,1.5,,,,1,,6,0,6,,"Stage check, student passed"
+3/25/2023,N4417P,PA-28-161,korl,2,2,,,,,,,,0,,3,3,0,,"Stage check, student passed"
+3/25/2023,N9192T,PA-44-180,KDED KMLB KDED,2,2,,2,,,,,,1,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+3/29/2023,N733GB,C-172N,KDED X04 KDED,0.8,0.8,,,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+3/29/2023,N9192T,PA-44-180,X05,1.2,1.2,,1.2,,1.2,,,,2,,5,0,5,,
+4/4/2023,N4417P,PA-28-161,KDED X04 KDED,1.2,1.2,,1.2,,,,,,2,,1,1,0,,"Student: K. Alvarez, steep turns"
+4/4/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+4/4/2023,N4417P,PA-28-161,X05,0.8,0.8,,0.8,,,,,,1,,1,1,0,,"Engine-out practice, ""simulated"" only"
+4/5/2023,#100234,C-172,korl  KDED korl,2:00,2:00,,,,,,,,2,,6,6,0,,"Engine-out practice, ""simulated"" only"
+4/5/2023,#100234,C-172,KORL,1.2,1.2,,1.2,,1.2,,,,0,,3,0,3,,"Engine-out practice, ""simulated"" only"
+4/5/2023,N4417P,PA-28-161,KDED KOCF KDED,1.8,1.8,,1.8,,,,,,1,,3,3,0,,"Engine-out practice, ""simulated"" only"
+4/9/2023,N9192T,PA-44-180,KBOW KMLB KBOW,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Stage check, student passed"
+4/12/2023,N733GB,C-172N,KISM,0.8,0.8,,,,0.8,,,,1,,5,0,5,,
+4/12/2023,N733GB,C-172N,kism,1.2,1.2,,1.2,,,,,,1,,3,3,0,,"Customs at MYNN, 45 min delay"
+4/16/2023,N733GB,C-172N,KORL,0.8,0.8,,0.8,,0.8,,,,2,,1,0,1,,"Engine-out practice, ""simulated"" only"
+4/16/2023,#100234,C-172,KVRB KSFB KVRB,0.8,0.8,,0.8,,,,,,1,,5,5,0,,"Student: K. Alvarez, steep turns"
+4/16/2023,#100234,C-172,X05 X04 X05,2,2,,2,,,,,,0,,5,5,0,,"Stage check, student passed"
+4/18/2023,N9192T,PA-44-180,X05 KGIF X05,0.8,0.8,,0.8,,,,,,2,,1,1,0,,"Engine-out practice, ""simulated"" only"
+4/18/2023,N733GB,C-172N,KLEE KVRB KLEE,0.8,0.8,,0.8,,,,,,1,,,3,0,,"Stage check, student passed"
+4/20/2023,#100234,C-172,KDED KFXE KTPA KDED,5.4,5.4,,5.4,,,,,,0,,1,1,0,5.4,
+4/20/2023,N4417P,PA-28-161,KORL KDED KORL,0.8,0.8,,0.8,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+4/20/2023,N4417P,PA-28-161,kism,0.8,0.8,,0.8,,,,,,0,,,1,0,,"Student: K. Alvarez, steep turns"
+4/23/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+4/27/2023,N9192T,PA-44-180,kism,1.3,1.3,,1.3,,,,,,2,,6,6,0,,
+4/27/2023,N4417P,PA-28-161,KBOW,1.8,1.8,,,,,,,,0,,1,1,0,,
+4/28/2023,N9192T,PA-44-180,KGIF,1:18,1:18,,1:18,,,,,,2,,5,5,0,,"Customs at MYNN, 45 min delay"
+4/28/2023,#100234,C-172,KISM,1.2,1.2,,1.2,,,,,,2,,5,5,0,,"Student: K. Alvarez, steep turns"
+4/28/2023,N9192T,PA-44-180,KGIF X05 KGIF,1,1,,,,1,,,,0,,3,0,3,,"Student: K. Alvarez, steep turns"
+4/30/2023,N733GB,C-172N,kism,0.8,0.8,,0.8,,,,,,1,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+4/30/2023,N9192T,PA-44-180,korl,1.3,1.3,,1.3,,,,,,2,,1,1,0,,"Customs at MYNN, 45 min delay"
+4/30/2023,N733GB,C-172N,X04,1.2,1.2,,1.2,,,,,,0,,,6,0,,"Engine-out practice, ""simulated"" only"
+5/3/2023,N733GB,C-172N,KBOW,1.2,1.2,,1.2,,,,,,2,,1,1,0,,"Customs at MYNN, 45 min delay"
+5/6/2023,N4417P,PA-28-161,KOCF KDED KOCF,2,2,,2,,,,,,0,,5,5,0,,"Stage check, student passed"
+5/6/2023,N733GB,C-172N,kism,0.8,0.8,,0.8,,,,,,2,,6,6,0,,"Customs at MYNN, 45 min delay"
+5/12/2023,N4417P,PA-28-161,KGIF,1.3,1.3,,1.3,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+5/18/2023,#100234,C-172,KVRB,2,2,,2,,,,,,0,,1,1,0,,
+5/18/2023,N733GB,C-172N,KORL KVRB KORL,1:12,1:12,,,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/20/2023,N9192T,PA-44-180,KORL MYEH KORL,6.8,6.8,,6.8,,,,,,2,,5,5,0,6.8,"Stage check, student passed"
+5/20/2023,N9192T,PA-44-180,kism,2,2,,,,,,,,2,,5,5,0,,"Student: K. Alvarez, steep turns"
+5/22/2023,N9192T,PA-44-180,KMLB,1.8,1.8,,1.8,,,,,,2,,1,1,0,,"Engine-out practice, ""simulated"" only"
+5/22/2023,N733GB,C-172N,X05 X05 X05,1.8,1.8,,1.8,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/26/2023,N4417P,PA-28-161,KBOW,1.3,1.3,,1.3,,,,,,0,,3,3,0,,"Student: K. Alvarez, steep turns"
+5/26/2023,#100234,C-172,KISM KEYW KISM,5.2,5.2,,5.2,,,,,,0,,6,6,0,5.2,"Customs at MYNN, 45 min delay"
+5/28/2023,N733GB,C-172N,KLEE,2,2,,2,,,,,,0,,5,5,0,,"Stage check, student passed"
+6/3/2023,#100234,C-172,KDED KOCF KDED,1.2,1.2,,1.2,,,,,,2,,3,3,0,,"Customs at MYNN, 45 min delay"
+6/3/2023,#100234,C-172,KDED KTLH KDED,4.3,4.3,,4.3,,,,,,2,,6,6,0,4.3,"Stage check, student passed"
+6/4/2023,#100234,C-172,KLEE,2,2,,2,,2,,,,0,,5,0,5,,"Student: K. Alvarez, steep turns"
+6/4/2023,N9192T,PA-44-180,X04 KTPA KJAX X04,4.4,4.4,,4.4,,,,,,1,,3,3,0,4.4,"Engine-out practice, ""simulated"" only"
+6/10/2023,N4417P,PA-28-161,KISM,1:18,1:18,,1:18,,1:18,,,,1,,,0,3,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/10/2023,N733GB,C-172N,KVRB KISM KVRB,2,2,,2,,,,,,0,,1,1,0,,"Stage check, student passed"
+6/10/2023,#100234,C-172,KBOW KISM KBOW,1,1,,1,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+6/12/2023,N4417P,PA-28-161,KORL MYAM KTLH KORL,9.8,9.8,,,,,,,,2,,5,5,0,9.8,
+6/12/2023,N4417P,PA-28-161,KISM,1,1,,1,,,,,,1,,3,3,0,,
+6/13/2023,N733GB,C-172N,KDED,1.3,1.3,,1.3,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/13/2023,N733GB,C-172N,KDED KTLH KDED,4.3,4.3,,4.3,,,,,,2,,,1,0,4.3,
+6/18/2023,N4417P,PA-28-161,KVRB KISM KVRB,1.8,1.8,,,,1.8,,,,2,,3,0,3,,"Engine-out practice, ""simulated"" only"
+6/18/2023,#100234,C-172,KMLB KTPA MYNN KMLB,7.6,7.6,,,,,,,,1,,6,6,0,7.6,"Cross-country with fuel stop, then
+returned VFR on top"
+6/23/2023,N4417P,PA-28-161,korl,2,2,,2,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+6/27/2023,#100234,C-172,KISM,2,2,,2,,,,,,2,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/27/2023,N4417P,PA-28-161,KGIF KOCF KGIF,1.2,1.2,,,,,,,,0,,6,6,0,,"Engine-out practice, ""simulated"" only"
+6/28/2023,N733GB,C-172N,KGIF,2,2,,2,,,,,,1,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/28/2023,N9192T,PA-44-180,KDED KPBI MYNN KDED,7.4,7.4,,7.4,,,,,,0,,,3,0,7.4,"Student: K. Alvarez, steep turns"
+6/30/2023,N733GB,C-172N,korl  KVRB korl,1.2,1.2,,,,,,,,1,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+7/1/2023,#100234,C-172,KLEE KDED KLEE,1.8,1.8,,1.8,,,,,,0,,,6,0,,
+7/1/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+7/4/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+7/4/2023,#100234,C-172,X05 KTLH KPBI X05,7:18,7:18,,,,,,,,2,,1,1,0,7:18,"Cross-country with fuel stop, then
+returned VFR on top"
+7/4/2023,N9192T,PA-44-180,KLEE KDED KLEE,1:30,1:30,,1:30,,,,,,0,,3,3,0,,
+7/10/2023,N9192T,PA-44-180,X05,2,2,,2,,,,,,1,,6,6,0,,"Stage check, student passed"
+7/10/2023,#100234,C-172,KLEE KEYW KFXE KLEE,6.6,6.6,,6.6,,,,,,2,,6,6,0,6.6,"Student: K. Alvarez, steep turns"
+7/13/2023,N733GB,C-172N,KBOW,2,2,,2,,,,,,1,,6,6,0,,"Engine-out practice, ""simulated"" only"
+7/14/2023,#100234,C-172,KORL,1.5,1.5,,,,,,,,0,,1,1,0,,"Student: K. Alvarez, steep turns"
+7/14/2023,#100234,C-172,KMLB,1,1,,1,,,,,,1,,6,6,0,,
+7/18/2023,N9192T,PA-44-180,KMLB,1.5,1.5,,1.5,,,,,,2,,,5,0,,"Student: K. Alvarez, steep turns"
+7/18/2023,N4417P,PA-28-161,KVRB,1.3,1.3,,1.3,,,,,,0,,3,3,0,,
+7/21/2023,#100234,C-172,X04,1.8,1.8,,,,,,,,1,,,3,0,,"Stage check, student passed"
+7/27/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+8/2/2023,#100234,C-172,KORL,1:30,1:30,,1:30,,,,,,1,,6,6,0,,
+8/2/2023,N733GB,C-172N,korl  KSFB korl,2,2,,,,,,,,1,,1,1,0,,
+8/3/2023,N4417P,PA-28-161,KOCF,1.5,1.5,,,,,,,,1,,5,5,0,,
+8/3/2023,N9192T,PA-44-180,KGIF KEYW KGIF,4.9,4.9,,4.9,,,,,,0,,3,3,0,4.9,"Customs at MYNN, 45 min delay"
+8/5/2023,N733GB,C-172N,KBOW MYNN KBOW,6.4,6.4,,6.4,,,,,,1,,3,3,0,6.4,"Stage check, student passed"
+8/5/2023,N4417P,PA-28-161,KMLB,0.8,0.8,,0.8,,,,,,1,,5,5,0,,"Stage check, student passed"
+8/8/2023,N4417P,PA-28-161,KMLB KDED KMLB,0.8,0.8,,0.8,,,,,,2,,3,3,0,,
+8/9/2023,N9192T,PA-44-180,kism,1.5,1.5,,,,,,,,0,,1,1,0,,"Stage check, student passed"
+8/9/2023,#100234,C-172,KMLB KOCF KMLB,2,2,,2,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+8/10/2023,N4417P,PA-28-161,KDED,1.3,1.3,,,,,,,,2,,3,3,0,,"Student: K. Alvarez, steep turns"
+8/10/2023,N4417P,PA-28-161,X04 KSFB X04,1.5,1.5,,1.5,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+8/12/2023,N733GB,C-172N,KGIF,1.5,1.5,,1.5,,,,,,0,,,3,0,,
+8/12/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+8/12/2023,#100234,C-172,KSFB KTPA KSFB,2.5,2.5,,2.5,,,,,,0,,1,1,0,2.5,"Stage check, student passed"
+8/13/2023,N733GB,C-172N,KBOW MYAM KBOW,6,6,,6,,,,,,0,,1,1,0,6,"Cross-country with fuel stop, then
+returned VFR on top"
+8/14/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+8/19/2023,N733GB,C-172N,KVRB KEYW KVRB,4.7,4.7,,4.7,,,,,,0,,1,1,0,4.7,"Engine-out practice, ""simulated"" only"
+8/19/2023,N4417P,PA-28-161,KLEE KPBI MYAM KLEE,7,7,,7,,,,,,0,,1,1,0,7,"Student: K. Alvarez, steep turns"
+8/19/2023,N733GB,C-172N,KGIF,1.5,1.5,,,,,,,,0,,1,1,0,,
+8/21/2023,N4417P,PA-28-161,KLEE KPBI KJAX KLEE,6,6,,6,,,,,,2,,6,6,0,6,"Engine-out practice, ""simulated"" only"
+8/21/2023,#100234,C-172,kism KDED  kism,1,1,,1,,1,,,,0,,5,0,5,,"Engine-out practice, ""simulated"" only"
+8/21/2023,N4417P,PA-28-161,KISM,1.2,1.2,,1.2,,,,,,0,,6,6,0,,
+8/26/2023,#100234,C-172,KBOW,1.8,1.8,,1.8,,1.8,,,,0,,5,0,5,,
+8/26/2023,N733GB,C-172N,X05 KVRB X05,1.8,1.8,,1.8,,,,,,0,,1,1,0,,
+8/31/2023,N4417P,PA-28-161,KMLB KOCF KMLB,0.8,0.8,,0.8,,,,,,2,,3,3,0,,
+8/31/2023,N9192T,PA-44-180,KGIF,1.2,1.2,,,,,,,,2,,1,1,0,,"Customs at MYNN, 45 min delay"
+9/2/2023,#100234,C-172,KSFB,2,2,,,,,,,,0,,1,1,0,,"Student: K. Alvarez, steep turns"
+9/8/2023,N9192T,PA-44-180,X04 KSRQ KTPA X04,3.1,3.1,,3.1,,,,,,0,,1,1,0,3.1,"Student: K. Alvarez, steep turns"
+9/8/2023,N733GB,C-172N,KDED,1,1,,1,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+9/10/2023,#100234,C-172,KORL,1,1,,,,,,,,0,,,5,0,,"Customs at MYNN, 45 min delay"
+9/10/2023,#100234,C-172,KSFB KLEE KSFB,1.3,1.3,,1.3,,,,,,2,,1,1,0,,"Customs at MYNN, 45 min delay"
+9/12/2023,#100234,C-172,KISM KSFB KISM,1.2,1.2,,1.2,,,,,,2,,1,1,0,,
+9/12/2023,#100234,C-172,KOCF KTLH KOCF,3.4,3.4,,3.4,,,,,,2,,1,1,0,3.4,
+9/16/2023,N4417P,PA-28-161,KVRB KDED KVRB,1.2,1.2,,1.2,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+9/16/2023,N4417P,PA-28-161,KVRB KMLB KVRB,1.8,1.8,,1.8,,,,,,1,,3,3,0,,"Engine-out practice, ""simulated"" only"
+9/19/2023,N733GB,C-172N,KGIF MYNN KGIF,6:30,6:30,,6:30,,,,,,1,,3,3,0,6:30,
+9/19/2023,N4417P,PA-28-161,KVRB X04 KVRB,1.3,1.3,,1.3,,,,,,0,,3,3,0,,"Customs at MYNN, 45 min delay"
+9/23/2023,N9192T,PA-44-180,KGIF KLEE KGIF,2,2,,2,,,,,,0,,5,5,0,,
+9/23/2023,N4417P,PA-28-161,KLEE MYNN MYEH KLEE,8,8,,,,,,,,0,,5,5,0,8,
+9/28/2023,N9192T,PA-44-180,KORL X04 KORL,1,1,,,,1,,,,1,,3,0,3,,"Stage check, student passed"
+9/28/2023,#100234,C-172,KOCF KTPA KOCF,2.3,2.3,,2.3,,,,,,2,,3,3,0,2.3,
+10/4/2023,#100234,C-172,KVRB,2,2,,2,,,,,,1,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/6/2023,N733GB,C-172N,KBOW,0:48,0:48,,0:48,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+10/6/2023,N9192T,PA-44-180,KMLB,1.3,1.3,,,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/10/2023,N733GB,C-172N,KMLB KDED KMLB,1.3,1.3,,1.3,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+10/10/2023,#100234,C-172,KGIF X05 KGIF,1.2,1.2,,1.2,,,,,,2,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/16/2023,#100234,C-172,KVRB,1.8,1.8,,1.8,,,,,,1,,5,5,0,,"Student: K. Alvarez, steep turns"
+10/16/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+10/21/2023,N9192T,PA-44-180,KORL KSRQ KORL,2:42,2:42,,2:42,,,,,,0,,,3,0,2:42,"Stage check, student passed"
+10/21/2023,N4417P,PA-28-161,X04 KGIF X04,1.5,1.5,,1.5,,,,,,0,,5,5,0,,"Stage check, student passed"
+10/21/2023,N9192T,PA-44-180,X05 KPBI X05,4,4,,4,,,,,,0,,3,3,0,4,"Customs at MYNN, 45 min delay"
+10/27/2023,#100234,C-172,KORL KSFB KORL,0.8,0.8,,,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+10/27/2023,#100234,C-172,X04 KORL X04,1.5,1.5,,1.5,,,,,,1,,6,6,0,,"Stage check, student passed"
+10/27/2023,N4417P,PA-28-161,KORL,1,1,,,,,,,,1,,3,3,0,,
+10/28/2023,#100234,C-172,kism,1.8,1.8,,1.8,,,,,,1,,,1,0,,"Stage check, student passed"
+10/28/2023,N4417P,PA-28-161,KSFB X04 KSFB,1.8,1.8,,1.8,,,,,,2,,5,5,0,,
+10/29/2023,N4417P,PA-28-161,KOCF KGIF KOCF,2,2,,2,,,,,,1,,6,6,0,,"Customs at MYNN, 45 min delay"
+11/4/2023,N4417P,PA-28-161,KGIF KPBI KGIF,3.2,3.2,,3.2,,,,,,0,,1,1,0,3.2,
+11/4/2023,N4417P,PA-28-161,KVRB KDED KVRB,0.8,0.8,,0.8,,,,,,0,,1,1,0,,
+11/10/2023,N9192T,PA-44-180,KBOW KJAX KTLH KBOW,5.9,5.9,,5.9,,,,,,0,,5,5,0,5.9,"Engine-out practice, ""simulated"" only"
+11/15/2023,N4417P,PA-28-161,KMLB,1.3,1.3,,1.3,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+11/19/2023,N9192T,PA-44-180,KORL,2,2,,2,,,,,,1,,5,5,0,,"Engine-out practice, ""simulated"" only"
+11/25/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+11/25/2023,N4417P,PA-28-161,KDED,2,2,,2,,,,,,0,,6,6,0,,"Engine-out practice, ""simulated"" only"
+11/25/2023,N4417P,PA-28-161,KOCF,1.5,1.5,,1.5,,,,,,1,,3,3,0,,
+12/1/2023,#100234,C-172,KLEE X04 KLEE,1.8,1.8,,,,,,,,0,,5,5,0,,
+12/1/2023,N4417P,PA-28-161,kism,1.2,1.2,,1.2,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+12/4/2023,N4417P,PA-28-161,KISM X05 KISM,1.8,1.8,,,,1.8,,,,1,,6,0,6,,"Stage check, student passed"
+12/9/2023,N9192T,PA-44-180,KMLB,1.2,1.2,,1.2,,,,,,0,,6,6,0,,
+12/9/2023,N733GB,C-172N,KDED KBOW KDED,1.8,1.8,,1.8,,,,,,2,,,6,0,,
+12/9/2023,N733GB,C-172N,KISM,2,2,,2,,,,,,2,,3,3,0,,
+12/15/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+12/17/2023,N733GB,C-172N,KVRB MYAM KVRB,4.5,4.5,,4.5,,,,,,0,,3,3,0,4.5,
+12/17/2023,N733GB,C-172N,KGIF KEYW KGIF,4.9,4.9,,4.9,,,,,,2,,,6,0,4.9,"Student: K. Alvarez, steep turns"
+12/17/2023,N4417P,PA-28-161,KMLB,1,1,,,,,,,,0,,3,3,0,,"Student: K. Alvarez, steep turns"
+12/23/2023,#100234,C-172,KMLB KSFB KMLB,2,2,,,,,,,,0,,6,6,0,,
+12/28/2023,N733GB,C-172N,X04 KVRB X04,1.5,1.5,,1.5,,,,,,2,,3,3,0,,"Student: K. Alvarez, steep turns"
+12/28/2023,#100234,C-172,X04 KVRB X04,0.8,0.8,,0.8,,,,,,2,,3,3,0,,"Stage check, student passed"
+12/28/2023,#100234,C-172,KLEE,1.3,1.3,,1.3,,,,,,0,,5,5,0,,
+12/31/2023,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+12/31/2023,#100234,C-172,KVRB,1.3,1.3,,1.3,,,,,,2,,3,3,0,,
+12/31/2023,N733GB,C-172N,X04,1.8,1.8,,,,,,,,2,,5,5,0,,
+1/3/2024,N9192T,PA-44-180,korl,1.3,1.3,,1.3,,,,,,2,,,1,0,,"Stage check, student passed"
+1/9/2024,N9192T,PA-44-180,KLEE KGIF KLEE,1.8,1.8,,1.8,,,,,,0,,,3,0,,
+1/12/2024,N4417P,PA-28-161,KBOW,0.8,0.8,,,,,,,,2,,6,6,0,,
+1/18/2024,N733GB,C-172N,KORL KISM KORL,0.8,0.8,,0.8,,0.8,,,,0,,1,0,1,,
+1/18/2024,N9192T,PA-44-180,KSFB KDED KSFB,2,2,,,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+1/20/2024,N4417P,PA-28-161,X05,2,2,,,,,,,,1,,6,6,0,,"Customs at MYNN, 45 min delay"
+1/20/2024,N733GB,C-172N,korl,1.3,1.3,,,,,,,,1,,1,1,0,,
+1/26/2024,#100234,C-172,KOCF,1.5,1.5,,1.5,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+1/26/2024,N4417P,PA-28-161,KMLB KDED KMLB,2,2,,,,,,,,0,,5,5,0,,"Customs at MYNN, 45 min delay"
+1/27/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+1/27/2024,N733GB,C-172N,KLEE MYAM KLEE,6.4,6.4,,6.4,,,,,,1,,,1,0,6.4,"Stage check, student passed"
+1/31/2024,N733GB,C-172N,KLEE KFXE KTLH KLEE,7.7,7.7,,7.7,,,,,,1,,5,5,0,7.7,"Cross-country with fuel stop, then
+returned VFR on top"
+1/31/2024,#100234,C-172,KORL,2:00,2:00,,2:00,,,,,,2,,5,5,0,,
+2/3/2024,#100234,C-172,KISM,0.8,0.8,,0.8,,,,,,0,,5,5,0,,
+2/9/2024,N733GB,C-172N,KLEE KDED KLEE,1,1,,1,,,,,,1,,3,3,0,,
+2/10/2024,#100234,C-172,KOCF,1.8,1.8,,,,1.8,,,,0,,3,0,3,,"Customs at MYNN, 45 min delay"
+2/10/2024,N4417P,PA-28-161,KOCF,1.3,1.3,,1.3,,,,,,1,,6,6,0,,
+2/10/2024,N4417P,PA-28-161,KISM X04 KISM,1.2,1.2,,1.2,,,,,,2,,1,1,0,,"Engine-out practice, ""simulated"" only"
+2/13/2024,N9192T,PA-44-180,KVRB KMLB KVRB,1.8,1.8,,1.8,,,,,,0,,5,5,0,,
+2/13/2024,N733GB,C-172N,X05 KISM X05,1,1,,1,,,,,,1,,3,3,0,,
+2/13/2024,N733GB,C-172N,KMLB KVRB KMLB,0.8,0.8,,0.8,,,,,,0,,,6,0,,
+2/15/2024,N733GB,C-172N,KISM MYAM MYEH KISM,7.2,7.2,,7.2,,,,,,2,,1,1,0,7.2,
+2/15/2024,N9192T,PA-44-180,KOCF,0.8,0.8,,0.8,,,,,,1,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+2/18/2024,N9192T,PA-44-180,X04 X04 X04,0.8,0.8,,0.8,,,,,,0,,6,6,0,,
+2/18/2024,N733GB,C-172N,KSFB KORL KSFB,2,2,,2,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+2/24/2024,#100234,C-172,KSFB,1,1,,1,,,,,,2,,5,5,0,,
+2/25/2024,N733GB,C-172N,X04 KLEE X04,0.8,0.8,,0.8,,,,,,0,,6,6,0,,
+2/25/2024,N4417P,PA-28-161,KORL KDED KORL,1.5,1.5,,1.5,,,,,,2,,3,3,0,,
+2/25/2024,#100234,C-172,KGIF KTLH KGIF,4.6,4.6,,4.6,,,,,,1,,5,5,0,4.6,"Stage check, student passed"
+2/28/2024,N4417P,PA-28-161,KMLB KOCF KMLB,0.8,0.8,,0.8,,0.8,,,,2,,6,0,6,,
+2/28/2024,N4417P,PA-28-161,KGIF,1.2,1.2,,1.2,,1.2,,,,2,,3,0,3,,
+3/5/2024,N733GB,C-172N,KMLB,2,2,,2,,,,,,1,,3,3,0,,
+3/11/2024,#100234,C-172,KLEE,1.3,1.3,,1.3,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+3/11/2024,N9192T,PA-44-180,KISM KOCF KISM,1:00,1:00,,,,1:00,,,,2,,5,0,5,,"Stage check, student passed"
+3/17/2024,N9192T,PA-44-180,KGIF KMLB KGIF,1.2,1.2,,1.2,,,,,,2,,3,3,0,,"Stage check, student passed"
+3/17/2024,N733GB,C-172N,KLEE KSRQ MYNN KLEE,8.1,8.1,,8.1,,,,,,0,,5,5,0,8.1,"Cross-country with fuel stop, then
+returned VFR on top"
+3/21/2024,N733GB,C-172N,kism,1.3,1.3,,,,,,,,2,,3,3,0,,"Student: K. Alvarez, steep turns"
+3/21/2024,N9192T,PA-44-180,KMLB KORL KMLB,0.8,0.8,,0.8,,,,,,2,,3,3,0,,"Stage check, student passed"
+3/27/2024,#100234,C-172,KSFB MYNN KTPA KSFB,8,8,,8,,,,,,1,,5,5,0,8,"Customs at MYNN, 45 min delay"
+3/27/2024,N733GB,C-172N,KDED KLEE KDED,1.8,1.8,,1.8,,,,,,0,,6,6,0,,
+3/30/2024,N4417P,PA-28-161,KGIF KBOW KGIF,1.5,1.5,,1.5,,,,,,1,,6,6,0,,
+4/2/2024,N733GB,C-172N,X05 KMLB X05,0.8,0.8,,0.8,,,,,,0,,3,3,0,,
+4/2/2024,N9192T,PA-44-180,X05 MYEH KSRQ X05,8.3,8.3,,,,,,,,0,,6,6,0,8.3,"Stage check, student passed"
+4/3/2024,#100234,C-172,kism KOCF  kism,1.5,1.5,,1.5,,,,,,2,,5,5,0,,"Stage check, student passed"
+4/3/2024,N4417P,PA-28-161,KOCF KTLH KJAX KOCF,4.6,4.6,,4.6,,,,,,0,,3,3,0,4.6,"Cross-country with fuel stop, then
+returned VFR on top"
+4/9/2024,N4417P,PA-28-161,kism,0.8,0.8,,0.8,,0.8,,,,1,,6,0,6,,"Cross-country with fuel stop, then
+returned VFR on top"
+4/9/2024,N9192T,PA-44-180,KMLB X04 KMLB,1.5,1.5,,,,,,,,1,,3,3,0,,"Student: K. Alvarez, steep turns"
+4/9/2024,N9192T,PA-44-180,KISM,1.2,1.2,,1.2,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+4/13/2024,N9192T,PA-44-180,KORL,1,1,,1,,,,,,2,,3,3,0,,"Student: K. Alvarez, steep turns"
+4/16/2024,N4417P,PA-28-161,KDED KVRB KDED,0.8,0.8,,0.8,,,,,,0,,1,1,0,,
+4/22/2024,N733GB,C-172N,kism KDED  kism,1.5,1.5,,1.5,,,,,,0,,5,5,0,,
+4/22/2024,N733GB,C-172N,KMLB,2,2,,2,,,,,,0,,,1,0,,
+4/27/2024,N733GB,C-172N,kism KISM  kism,2:00,2:00,,2:00,,,,,,2,,6,6,0,,"Student: K. Alvarez, steep turns"
+4/29/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+4/29/2024,N4417P,PA-28-161,KMLB KPBI MYAM KMLB,5.6,5.6,,5.6,,,,,,0,,5,5,0,5.6,"Customs at MYNN, 45 min delay"
+5/5/2024,N733GB,C-172N,KVRB KBOW KVRB,1.5,1.5,,1.5,,,,,,2,,6,6,0,,"Customs at MYNN, 45 min delay"
+5/5/2024,N733GB,C-172N,KMLB KBOW KMLB,1:48,1:48,,1:48,,,,,,1,,5,5,0,,"Customs at MYNN, 45 min delay"
+5/6/2024,#100234,C-172,KDED,1.8,1.8,,1.8,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/6/2024,N733GB,C-172N,KSFB,0.8,0.8,,0.8,,,,,,0,,6,6,0,,"Stage check, student passed"
+5/7/2024,N9192T,PA-44-180,X04,1.5,1.5,,1.5,,,,,,2,,1,1,0,,"Stage check, student passed"
+5/7/2024,#100234,C-172,KMLB KOCF KMLB,0.8,0.8,,0.8,,,,,,2,,3,3,0,,"Engine-out practice, ""simulated"" only"
+5/9/2024,N733GB,C-172N,kism KSFB  kism,1.5,1.5,,,,,,,,0,,1,1,0,,
+5/15/2024,#100234,C-172,korl,1.5,1.5,,1.5,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+5/17/2024,N733GB,C-172N,korl,0.8,0.8,,0.8,,,,,,1,,3,3,0,,"Student: K. Alvarez, steep turns"
+5/17/2024,N9192T,PA-44-180,KLEE KORL KLEE,1.3,1.3,,1.3,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/23/2024,#100234,C-172,korl,1,1,,1,,,,,,0,,3,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/28/2024,#100234,C-172,KBOW KGIF KBOW,2,2,,2,,,,,,0,,3,3,0,,
+5/28/2024,N4417P,PA-28-161,KDED KTPA MYAM KDED,7.6,7.6,,,,,,,,1,,6,6,0,7.6,"Student: K. Alvarez, steep turns"
+5/28/2024,N733GB,C-172N,KOCF KPBI KOCF,4.5,4.5,,4.5,,4.5,,,,0,,5,0,5,4.5,"Student: K. Alvarez, steep turns"
+5/31/2024,N9192T,PA-44-180,KBOW,0.8,0.8,,0.8,,0.8,,,,1,,1,0,1,,"Stage check, student passed"
+6/5/2024,#100234,C-172,KISM KBOW KISM,1.3,1.3,,,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+6/5/2024,#100234,C-172,korl  KBOW korl,0.8,0.8,,0.8,,,,,,1,,3,3,0,,"Student: K. Alvarez, steep turns"
+6/5/2024,N733GB,C-172N,KLEE KSFB KLEE,0:48,0:48,,0:48,,,,,,0,,6,6,0,,"Stage check, student passed"
+6/6/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+6/6/2024,N733GB,C-172N,KVRB,1.5,1.5,,1.5,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/6/2024,N4417P,PA-28-161,KISM,1:18,1:18,,1:18,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/12/2024,#100234,C-172,X05 KOCF X05,1.3,1.3,,,,,,,,2,,1,1,0,,
+6/12/2024,N9192T,PA-44-180,KBOW KPBI KFXE KBOW,3.9,3.9,,,,,,,,1,,6,6,0,3.9,"Student: K. Alvarez, steep turns"
+6/17/2024,N733GB,C-172N,KVRB,1.5,1.5,,1.5,,1.5,,,,0,,5,0,5,,"Engine-out practice, ""simulated"" only"
+6/17/2024,N733GB,C-172N,KISM,0.8,0.8,,,,,,,,2,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/21/2024,N9192T,PA-44-180,KBOW,1.2,1.2,,,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+6/21/2024,#100234,C-172,KISM KSRQ KISM,2.4,2.4,,2.4,,,,,,1,,6,6,0,2.4,"Stage check, student passed"
+6/23/2024,N733GB,C-172N,X05 MYNN X05,7.3,7.3,,,,,,,,1,,5,5,0,7.3,"Student: K. Alvarez, steep turns"
+6/23/2024,N9192T,PA-44-180,KORL KOCF KORL,1.3,1.3,,,,1.3,,,,0,,1,0,1,,
+6/25/2024,N4417P,PA-28-161,KOCF,0.8,0.8,,,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+6/30/2024,#100234,C-172,kism KOCF  kism,1.5,1.5,,1.5,,,,,,0,,5,5,0,,
+7/5/2024,N4417P,PA-28-161,KDED KBOW KDED,1.2,1.2,,,,,,,,2,,5,5,0,,"Stage check, student passed"
+7/5/2024,#100234,C-172,KDED,1,1,,1,,,,,,2,,3,3,0,,
+7/7/2024,#100234,C-172,KORL,2,2,,2,,,,,,2,,1,1,0,,"Customs at MYNN, 45 min delay"
+7/7/2024,N4417P,PA-28-161,kism,1.5,1.5,,1.5,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+7/12/2024,N733GB,C-172N,KORL KORL KORL,0.8,0.8,,,,,,,,2,,5,5,0,,"Customs at MYNN, 45 min delay"
+7/12/2024,N4417P,PA-28-161,KVRB KLEE KVRB,0.8,0.8,,0.8,,,,,,2,,6,6,0,,
+7/12/2024,N4417P,PA-28-161,X05 KPBI KTPA X05,4.4,4.4,,,,,,,,0,,6,6,0,4.4,
+7/16/2024,N4417P,PA-28-161,korl,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+7/16/2024,#100234,C-172,KBOW,1.8,1.8,,1.8,,1.8,,,,0,,3,0,3,,
+7/16/2024,N733GB,C-172N,kism,1.8,1.8,,1.8,,,,,,2,,1,1,0,,
+7/18/2024,N733GB,C-172N,korl,0.8,0.8,,,,,,,,0,,3,3,0,,
+7/18/2024,N4417P,PA-28-161,KISM X04 KISM,1:12,1:12,,1:12,,,,,,0,,3,3,0,,"Customs at MYNN, 45 min delay"
+7/18/2024,N733GB,C-172N,KSFB KORL KSFB,2,2,,,,,,,,0,,5,5,0,,"Customs at MYNN, 45 min delay"
+7/21/2024,N733GB,C-172N,X05 KGIF X05,1.2,1.2,,1.2,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+7/21/2024,N4417P,PA-28-161,KLEE KORL KLEE,0.8,0.8,,0.8,,,,,,1,,6,6,0,,
+7/21/2024,N733GB,C-172N,KISM KSRQ KISM,2.4,2.4,,,,,,,,2,,1,1,0,2.4,"Customs at MYNN, 45 min delay"
+7/22/2024,#100234,C-172,KSFB,1.8,1.8,,1.8,,,,,,2,,6,6,0,,
+7/28/2024,N733GB,C-172N,KGIF KLEE KGIF,1.8,1.8,,1.8,,,,,,2,,1,1,0,,
+7/31/2024,N9192T,PA-44-180,KSFB,1.8,1.8,,,,,,,,1,,6,6,0,,"Customs at MYNN, 45 min delay"
+7/31/2024,N4417P,PA-28-161,KMLB KMLB KMLB,1.3,1.3,,1.3,,,,,,2,,5,5,0,,"Stage check, student passed"
+7/31/2024,#100234,C-172,X05 X04 X05,1.2,1.2,,,,,,,,2,,5,5,0,,
+8/2/2024,N4417P,PA-28-161,KOCF KMLB KOCF,2,2,,2,,,,,,2,,5,5,0,,"Student: K. Alvarez, steep turns"
+8/2/2024,#100234,C-172,KDED KOCF KDED,0.8,0.8,,0.8,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+8/2/2024,#100234,C-172,KOCF,1.8,1.8,,,,,,,,0,,1,1,0,,"Student: K. Alvarez, steep turns"
+8/3/2024,N733GB,C-172N,KLEE,1:18,1:18,,1:18,,,,,,1,,1,1,0,,"Student: K. Alvarez, steep turns"
+8/3/2024,N733GB,C-172N,KVRB KOCF KVRB,0.8,0.8,,0.8,,0.8,,,,0,,5,0,5,,"Cross-country with fuel stop, then
+returned VFR on top"
+8/7/2024,N733GB,C-172N,KGIF,2,2,,2,,,,,,1,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+8/7/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+8/13/2024,N9192T,PA-44-180,KSFB,1.2,1.2,,,,,,,,2,,,5,0,,"Customs at MYNN, 45 min delay"
+8/13/2024,N4417P,PA-28-161,korl,1.8,1.8,,1.8,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+8/13/2024,N4417P,PA-28-161,KSFB KDED KSFB,0.8,0.8,,,,,,,,0,,6,6,0,,
+8/17/2024,N733GB,C-172N,KOCF KDED KOCF,1.2,1.2,,1.2,,,,,,0,,6,6,0,,
+8/17/2024,N733GB,C-172N,KLEE,1.3,1.3,,1.3,,,,,,0,,5,5,0,,"Stage check, student passed"
+8/19/2024,N733GB,C-172N,KLEE KDED KLEE,2,2,,2,,,,,,0,,3,3,0,,"Stage check, student passed"
+8/19/2024,N9192T,PA-44-180,X04 KPBI KSRQ X04,4.8,4.8,,4.8,,,,,,1,,5,5,0,4.8,
+8/23/2024,N9192T,PA-44-180,KSFB,0.8,0.8,,0.8,,,,,,2,,3,3,0,,"Student: K. Alvarez, steep turns"
+8/23/2024,#100234,C-172,KORL,1,1,,1,,,,,,1,,1,1,0,,"Engine-out practice, ""simulated"" only"
+8/23/2024,N733GB,C-172N,X04 KVRB X04,1.5,1.5,,1.5,,,,,,2,,6,6,0,,"Engine-out practice, ""simulated"" only"
+8/27/2024,N9192T,PA-44-180,KGIF KTLH MYAM KGIF,9.9,9.9,,9.9,,,,,,0,,3,3,0,9.9,"Customs at MYNN, 45 min delay"
+8/27/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+9/2/2024,#100234,C-172,korl  KDED korl,1.5,1.5,,1.5,,,,,,2,,5,5,0,,"Student: K. Alvarez, steep turns"
+9/2/2024,N4417P,PA-28-161,KISM,1.8,1.8,,,,1.8,,,,1,,6,0,6,,"Customs at MYNN, 45 min delay"
+9/2/2024,N4417P,PA-28-161,X05,1.2,1.2,,1.2,,,,,,1,,3,3,0,,"Student: K. Alvarez, steep turns"
+9/6/2024,N4417P,PA-28-161,KMLB,0.8,0.8,,0.8,,,,,,2,,6,6,0,,
+9/6/2024,N733GB,C-172N,KBOW KJAX MYEH KBOW,9.4,9.4,,9.4,,,,,,1,,1,1,0,9.4,"Student: K. Alvarez, steep turns"
+9/11/2024,N733GB,C-172N,KISM KTLH KFXE KISM,7:36,7:36,,7:36,,,,,,0,,6,6,0,7:36,
+9/11/2024,N9192T,PA-44-180,KVRB KSFB KVRB,1.8,1.8,,,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+9/15/2024,N4417P,PA-28-161,KMLB,2,2,,2,,,,,,2,,5,5,0,,
+9/19/2024,N733GB,C-172N,KVRB KOCF KVRB,1,1,,1,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+9/22/2024,#100234,C-172,X04 X05 X04,0:48,0:48,,0:48,,,,,,0,,6,6,0,,"Stage check, student passed"
+9/24/2024,#100234,C-172,KMLB KGIF KMLB,0.8,0.8,,0.8,,,,,,2,,1,1,0,,"Engine-out practice, ""simulated"" only"
+9/24/2024,N4417P,PA-28-161,KSFB,1.3,1.3,,1.3,,,,,,0,,1,1,0,,
+9/26/2024,N733GB,C-172N,KSFB,0.8,0.8,,0.8,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+9/30/2024,N9192T,PA-44-180,KGIF KISM KGIF,1,1,,,,,,,,1,,5,5,0,,"Stage check, student passed"
+9/30/2024,N733GB,C-172N,KMLB KGIF KMLB,1.5,1.5,,1.5,,,,,,1,,5,5,0,,"Student: K. Alvarez, steep turns"
+10/4/2024,N733GB,C-172N,KORL,1.8,1.8,,,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+10/4/2024,N9192T,PA-44-180,kism,1.5,1.5,,1.5,,,,,,2,,1,1,0,,"Stage check, student passed"
+10/4/2024,N9192T,PA-44-180,KISM MYEH MYNN KISM,7.3,7.3,,7.3,,,,,,0,,5,5,0,7.3,"Stage check, student passed"
+10/9/2024,N4417P,PA-28-161,X05 MYEH KSRQ X05,8.3,8.3,,,,,,,,1,,6,6,0,8.3,"Student: K. Alvarez, steep turns"
+10/12/2024,N4417P,PA-28-161,korl,1.5,1.5,,1.5,,,,,,0,,5,5,0,,"Engine-out practice, ""simulated"" only"
+10/12/2024,N4417P,PA-28-161,KOCF MYAM KJAX KOCF,8.3,8.3,,8.3,,,,,,0,,5,5,0,8.3,
+10/13/2024,N9192T,PA-44-180,KGIF,1.8,1.8,,1.8,,,,,,1,,1,1,0,,"Engine-out practice, ""simulated"" only"
+10/13/2024,N4417P,PA-28-161,korl  X04 korl,1.2,1.2,,1.2,,,,,,1,,6,6,0,,
+10/15/2024,N733GB,C-172N,X04 X04 X04,1,1,,1,,,,,,2,,5,5,0,,
+10/15/2024,N4417P,PA-28-161,KBOW,1.5,1.5,,1.5,,,,,,2,,,5,0,,
+10/15/2024,N4417P,PA-28-161,KMLB KPBI KFXE KMLB,3.5,3.5,,3.5,,3.5,,,,0,,5,0,5,3.5,
+10/19/2024,N4417P,PA-28-161,KDED,1:48,1:48,,1:48,,,,,,1,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/19/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+10/19/2024,N9192T,PA-44-180,KBOW X04 KBOW,1.5,1.5,,1.5,,,,,,0,,6,6,0,,
+10/20/2024,N4417P,PA-28-161,korl  X04 korl,2,2,,,,,,,,0,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/20/2024,N733GB,C-172N,KLEE,1:18,1:18,,1:18,,,,,,1,,6,6,0,,
+10/21/2024,N733GB,C-172N,KGIF KFXE KTPA KGIF,4:30,4:30,,4:30,,,,,,1,,1,1,0,4:30,
+10/21/2024,#100234,C-172,KGIF,1.5,1.5,,,,,,,,0,,6,6,0,,"Engine-out practice, ""simulated"" only"
+10/21/2024,N4417P,PA-28-161,KBOW,1.5,1.5,,1.5,,,,,,1,,,3,0,,"Student: K. Alvarez, steep turns"
+10/24/2024,N4417P,PA-28-161,KOCF MYEH KEYW KOCF,10.1,10.1,,10.1,,,,,,1,,6,6,0,10.1,
+10/24/2024,N4417P,PA-28-161,X05 KDED X05,2:00,2:00,,2:00,,,,,,1,,3,3,0,,"Customs at MYNN, 45 min delay"
+10/29/2024,N9192T,PA-44-180,KDED KEYW KSRQ KDED,6.6,6.6,,6.6,,,,,,0,,5,5,0,6.6,"Engine-out practice, ""simulated"" only"
+10/30/2024,N9192T,PA-44-180,KBOW KISM KBOW,1,1,,1,,,,,,1,,1,1,0,,"Stage check, student passed"
+10/30/2024,N9192T,PA-44-180,KBOW MYAM KPBI KBOW,6.4,6.4,,6.4,,,,,,1,,,5,0,6.4,
+10/30/2024,N4417P,PA-28-161,KMLB,0.8,0.8,,0.8,,,,,,0,,5,5,0,,"Stage check, student passed"
+11/3/2024,N733GB,C-172N,KMLB,1.5,1.5,,1.5,,,,,,0,,,6,0,,"Stage check, student passed"
+11/3/2024,N4417P,PA-28-161,kism X05  kism,2,2,,2,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+11/3/2024,N733GB,C-172N,KGIF KTPA KGIF,1:42,1:42,,1:42,,,,,,1,,1,1,0,1:42,"Engine-out practice, ""simulated"" only"
+11/8/2024,#100234,C-172,KISM,0.8,0.8,,0.8,,,,,,2,,5,5,0,,
+11/12/2024,N733GB,C-172N,korl  KGIF korl,0.8,0.8,,0.8,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+11/12/2024,N9192T,PA-44-180,KISM,1.3,1.3,,1.3,,,,,,2,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+11/12/2024,N4417P,PA-28-161,KBOW X04 KBOW,1,1,,1,,,,,,2,,6,6,0,,"Customs at MYNN, 45 min delay"
+11/18/2024,N733GB,C-172N,kism KDED  kism,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+11/18/2024,N733GB,C-172N,KBOW KTLH KBOW,4.7,4.7,,4.7,,,,,,0,,5,5,0,4.7,"Student: K. Alvarez, steep turns"
+11/21/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+11/21/2024,N4417P,PA-28-161,KOCF MYNN KFXE KOCF,8.1,8.1,,8.1,,,,,,0,,3,3,0,8.1,"Customs at MYNN, 45 min delay"
+11/27/2024,N9192T,PA-44-180,korl  KBOW korl,1.2,1.2,,,,,,,,0,,6,6,0,,
+11/27/2024,N4417P,PA-28-161,KGIF,0.8,0.8,,,,,,,,0,,6,6,0,,"Student: K. Alvarez, steep turns"
+11/27/2024,N4417P,PA-28-161,KBOW,2,2,,2,,,,,,0,,1,1,0,,
+11/30/2024,#100234,C-172,KORL KDED KORL,1,1,,1,,,,,,1,,1,1,0,,"Stage check, student passed"
+11/30/2024,N733GB,C-172N,KMLB KSFB KMLB,2,2,,2,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+12/1/2024,N4417P,PA-28-161,KISM,0.8,0.8,,0.8,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+12/1/2024,N9192T,PA-44-180,X04 KGIF X04,1.5,1.5,,1.5,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+12/1/2024,N733GB,C-172N,KSFB KTPA KSFB,2.5,2.5,,,,,,,,2,,,6,0,2.5,"Engine-out practice, ""simulated"" only"
+12/4/2024,N9192T,PA-44-180,KLEE KFXE MYAM KLEE,7.2,7.2,,7.2,,,,,,0,,1,1,0,7.2,"Customs at MYNN, 45 min delay"
+12/4/2024,#100234,C-172,kism,0.8,0.8,,0.8,,,,,,0,,5,5,0,,
+12/9/2024,N4417P,PA-28-161,KSFB,1.2,1.2,,1.2,,1.2,,,,2,,1,0,1,,"Engine-out practice, ""simulated"" only"
+12/9/2024,N733GB,C-172N,X05,1,1,,1,,,,,,1,,3,3,0,,
+12/9/2024,N733GB,C-172N,kism,1,1,,1,,,,,,2,,3,3,0,,
+12/12/2024,N733GB,C-172N,KBOW KTPA KBOW,1.7,1.7,,1.7,,,,,,0,,1,1,0,1.7,
+12/16/2024,N9192T,PA-44-180,KOCF X05 KOCF,1.5,1.5,,1.5,,,,,,0,,5,5,0,,
+12/16/2024,#100234,C-172,KSFB,1,1,,1,,,,,,2,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+12/19/2024,N4417P,PA-28-161,KDED KBOW KDED,1.3,1.3,,1.3,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+12/19/2024,N9192T,PA-44-180,KLEE KBOW KLEE,1:30,1:30,,1:30,,,,,,1,,5,5,0,,"Engine-out practice, ""simulated"" only"
+12/19/2024,#100234,C-172,korl  KORL korl,1,1,,1,,,,,,0,,6,6,0,,
+12/24/2024,N9192T,PA-44-180,KMLB,1.5,1.5,,1.5,,,,,,1,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+12/24/2024,N733GB,C-172N,KLEE X04 KLEE,1.5,1.5,,1.5,,,,,,1,,6,6,0,,
+12/25/2024,N9192T,PA-44-180,KSFB KGIF KSFB,1.3,1.3,,,,,,,,0,,1,1,0,,
+12/30/2024,N733GB,C-172N,KGIF KORL KGIF,1.2,1.2,,,,,,,,0,,1,1,0,,"Stage check, student passed"
+12/30/2024,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+1/1/2025,N9192T,PA-44-180,KORL,0.8,0.8,,0.8,,,,,,0,,3,3,0,,
+1/1/2025,#100234,C-172,KDED KFXE MYEH KDED,7.9,7.9,,7.9,,,,,,2,,,1,0,7.9,"Cross-country with fuel stop, then
+returned VFR on top"
+1/2/2025,N733GB,C-172N,KISM KSFB KISM,1.2,1.2,,1.2,,1.2,,,,0,,1,0,1,,"Engine-out practice, ""simulated"" only"
+1/2/2025,N733GB,C-172N,KISM,1.3,1.3,,1.3,,,,,,1,,,1,0,,
+1/2/2025,N9192T,PA-44-180,KBOW,2,2,,2,,,,,,0,,3,3,0,,"Customs at MYNN, 45 min delay"
+1/8/2025,N4417P,PA-28-161,X05 KMLB X05,0.8,0.8,,0.8,,0.8,,,,1,,1,0,1,,"Student: K. Alvarez, steep turns"
+1/8/2025,N4417P,PA-28-161,KSFB MYEH MYAM KSFB,7.3,7.3,,7.3,,7.3,,,,1,,1,0,1,7.3,
+1/12/2025,N9192T,PA-44-180,KORL,0.8,0.8,,0.8,,,,,,2,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+1/12/2025,N9192T,PA-44-180,KORL KMLB KORL,2,2,,2,,,,,,1,,1,1,0,,"Customs at MYNN, 45 min delay"
+1/12/2025,N4417P,PA-28-161,KSFB,1.3,1.3,,1.3,,,,,,0,,5,5,0,,"Stage check, student passed"
+1/17/2025,N4417P,PA-28-161,KVRB KLEE KVRB,1.3,1.3,,1.3,,,,,,0,,1,1,0,,"Student: K. Alvarez, steep turns"
+1/22/2025,N4417P,PA-28-161,KVRB X05 KVRB,1.3,1.3,,1.3,,,,,,0,,5,5,0,,"Engine-out practice, ""simulated"" only"
+1/22/2025,#100234,C-172,KDED,0.8,0.8,,0.8,,,,,,0,,3,3,0,,"Student: K. Alvarez, steep turns"
+1/26/2025,N4417P,PA-28-161,KGIF MYAM KGIF,6,6,,6,,,,,,0,,3,3,0,6,
+1/30/2025,N733GB,C-172N,X05 KTPA KSRQ X05,2.3,2.3,,2.3,,2.3,,,,1,,1,0,1,2.3,"Customs at MYNN, 45 min delay"
+1/30/2025,N9192T,PA-44-180,KGIF KMLB KGIF,1.8,1.8,,1.8,,,,,,2,,1,1,0,,
+2/3/2025,N9192T,PA-44-180,X04,1,1,,1,,,,,,2,,6,6,0,,"Student: K. Alvarez, steep turns"
+2/8/2025,N733GB,C-172N,KGIF KEYW KSRQ KGIF,5.4,5.4,,5.4,,,,,,2,,1,1,0,5.4,"Stage check, student passed"
+2/8/2025,N9192T,PA-44-180,KMLB MYNN KTLH KMLB,10.5,10.5,,10.5,,,,,,0,,5,5,0,10.5,
+2/13/2025,#100234,C-172,KBOW KFXE KBOW,3.5,3.5,,3.5,,,,,,0,,5,5,0,3.5,
+2/13/2025,N4417P,PA-28-161,X05,1.2,1.2,,1.2,,,,,,1,,5,5,0,,"Student: K. Alvarez, steep turns"
+2/13/2025,N4417P,PA-28-161,X05 KVRB X05,1.3,1.3,,1.3,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+2/16/2025,N4417P,PA-28-161,X05,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Stage check, student passed"
+2/16/2025,N733GB,C-172N,KLEE,1.5,1.5,,,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+2/21/2025,N9192T,PA-44-180,korl,1.8,1.8,,,,,,,,0,,6,6,0,,"Engine-out practice, ""simulated"" only"
+2/21/2025,N733GB,C-172N,KBOW KJAX KBOW,3.8,3.8,,3.8,,,,,,2,,5,5,0,3.8,
+2/27/2025,N9192T,PA-44-180,KGIF KPBI KGIF,3.2,3.2,,3.2,,,,,,0,,5,5,0,3.2,"Customs at MYNN, 45 min delay"
+2/27/2025,#100234,C-172,KISM KBOW KISM,1.3,1.3,,1.3,,,,,,0,,3,3,0,,"Customs at MYNN, 45 min delay"
+3/3/2025,N4417P,PA-28-161,X04 KMLB X04,1.8,1.8,,1.8,,,,,,2,,6,6,0,,
+3/8/2025,N4417P,PA-28-161,KSFB KMLB KSFB,1.5,1.5,,1.5,,,,,,1,,5,5,0,,"Engine-out practice, ""simulated"" only"
+3/8/2025,N733GB,C-172N,KBOW KISM KBOW,1.8,1.8,,1.8,,,,,,1,,6,6,0,,"Student: K. Alvarez, steep turns"
+3/14/2025,#100234,C-172,KISM KJAX KFXE KISM,6.4,6.4,,,,,,,,0,,3,3,0,6.4,"Engine-out practice, ""simulated"" only"
+3/14/2025,N733GB,C-172N,KMLB,2,2,,2,,,,,,1,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+3/14/2025,N9192T,PA-44-180,KISM KEYW KISM,5.2,5.2,,5.2,,,,,,0,,,5,0,5.2,"Engine-out practice, ""simulated"" only"
+3/19/2025,N9192T,PA-44-180,kism,2,2,,2,,,,,,1,,5,5,0,,"Engine-out practice, ""simulated"" only"
+3/19/2025,#100234,C-172,KVRB KBOW KVRB,1,1,,1,,,,,,0,,5,5,0,,"Stage check, student passed"
+3/25/2025,N9192T,PA-44-180,X04 MYEH KTLH X04,10.8,10.8,,10.8,,,,,,0,,,3,0,10.8,
+3/25/2025,N4417P,PA-28-161,KBOW KGIF KBOW,1.5,1.5,,1.5,,,,,,0,,6,6,0,,
+3/31/2025,N4417P,PA-28-161,X04,1:18,1:18,,1:18,,,,,,0,,3,3,0,,
+3/31/2025,N4417P,PA-28-161,kism X04  kism,1.5,1.5,,1.5,,,,,,2,,1,1,0,,
+4/1/2025,#100234,C-172,KISM KSRQ MYNN KISM,7.7,7.7,,7.7,,,,,,1,,1,1,0,7.7,"Customs at MYNN, 45 min delay"
+4/1/2025,N4417P,PA-28-161,KBOW,1.5,1.5,,1.5,,,,,,0,,3,3,0,,
+4/6/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+4/6/2025,#100234,C-172,KBOW X04 KBOW,1.5,1.5,,1.5,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+4/6/2025,#100234,C-172,X04 MYNN X04,6.8,6.8,,6.8,,,,,,0,,5,5,0,6.8,"Engine-out practice, ""simulated"" only"
+4/12/2025,N9192T,PA-44-180,korl  KSFB korl,2,2,,2,,,,,,2,,6,6,0,,"Student: K. Alvarez, steep turns"
+4/12/2025,#100234,C-172,KGIF,1.2,1.2,,1.2,,,,,,1,,5,5,0,,"Student: K. Alvarez, steep turns"
+4/14/2025,N4417P,PA-28-161,X04,0.8,0.8,,,,,,,,2,,3,3,0,,"Stage check, student passed"
+4/19/2025,N4417P,PA-28-161,KORL,2,2,,2,,,,,,0,,3,3,0,,
+4/21/2025,#100234,C-172,KGIF MYEH KGIF,6.9,6.9,,6.9,,,,,,0,,1,1,0,6.9,"Customs at MYNN, 45 min delay"
+4/23/2025,N9192T,PA-44-180,KMLB KVRB KMLB,1.5,1.5,,1.5,,1.5,,,,1,,,0,1,,
+4/24/2025,N9192T,PA-44-180,KBOW KGIF KBOW,1.3,1.3,,1.3,,,,,,0,,3,3,0,,
+4/24/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+4/25/2025,N9192T,PA-44-180,KLEE KTLH KEYW KLEE,8.8,8.8,,,,,,,,0,,5,5,0,8.8,"Student: K. Alvarez, steep turns"
+4/25/2025,N9192T,PA-44-180,KDED KORL KDED,1.3,1.3,,,,,,,,1,,5,5,0,,
+4/27/2025,#100234,C-172,KDED,1.8,1.8,,1.8,,,,,,1,,6,6,0,,
+4/27/2025,#100234,C-172,KGIF KPBI KGIF,3.2,3.2,,,,,,,,1,,1,1,0,3.2,
+5/2/2025,#100234,C-172,korl,1.8,1.8,,1.8,,,,,,0,,5,5,0,,"Student: K. Alvarez, steep turns"
+5/2/2025,N9192T,PA-44-180,KBOW,1.8,1.8,,1.8,,,,,,0,,,3,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/5/2025,N733GB,C-172N,X05 KJAX KPBI X05,6.4,6.4,,6.4,,,,,,0,,1,1,0,6.4,"Engine-out practice, ""simulated"" only"
+5/5/2025,#100234,C-172,KSFB KFXE KSFB,4,4,,4,,,,,,1,,1,1,0,4,
+5/5/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+5/6/2025,#100234,C-172,KLEE KMLB KLEE,1.8,1.8,,1.8,,,,,,1,,6,6,0,,
+5/9/2025,N9192T,PA-44-180,korl  KMLB korl,1.8,1.8,,1.8,,,,,,1,,5,5,0,,
+5/9/2025,N4417P,PA-28-161,KLEE KFXE MYNN KLEE,7.6,7.6,,7.6,,,,,,0,,5,5,0,7.6,"Customs at MYNN, 45 min delay"
+5/9/2025,N4417P,PA-28-161,X04 KMLB X04,2,2,,2,,,,,,0,,6,6,0,,"Stage check, student passed"
+5/10/2025,#100234,C-172,korl,1.5,1.5,,1.5,,,,,,2,,1,1,0,,
+5/10/2025,N9192T,PA-44-180,KOCF MYNN KOCF,7.7,7.7,,7.7,,7.7,,,,0,,1,0,1,7.7,
+5/13/2025,N733GB,C-172N,KSFB,1.8,1.8,,1.8,,,,,,2,,3,3,0,,"Engine-out practice, ""simulated"" only"
+5/13/2025,N9192T,PA-44-180,KBOW KSFB KBOW,1.3,1.3,,1.3,,,,,,2,,1,1,0,,"Student: K. Alvarez, steep turns"
+5/13/2025,N4417P,PA-28-161,KVRB KOCF KVRB,1.2,1.2,,,,,,,,1,,6,6,0,,"Stage check, student passed"
+5/19/2025,N733GB,C-172N,KLEE,0.8,0.8,,0.8,,,,,,2,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+5/19/2025,#100234,C-172,KBOW KDED KBOW,1:12,1:12,,1:12,,,,,,2,,6,6,0,,
+5/22/2025,N9192T,PA-44-180,kism,2,2,,,,,,,,0,,1,1,0,,
+5/23/2025,N9192T,PA-44-180,KVRB KMLB KVRB,1.5,1.5,,1.5,,,,,,0,,,3,0,,
+5/28/2025,N733GB,C-172N,X04 KSRQ X04,2.7,2.7,,2.7,,,,,,1,,,1,0,2.7,
+5/29/2025,N9192T,PA-44-180,KORL,1,1,,,,,,,,0,,3,3,0,,"Stage check, student passed"
+5/29/2025,N4417P,PA-28-161,KMLB KLEE KMLB,1.5,1.5,,1.5,,,,,,2,,,6,0,,
+6/3/2025,N733GB,C-172N,KVRB,2,2,,2,,,,,,2,,,6,0,,"Customs at MYNN, 45 min delay"
+6/3/2025,N9192T,PA-44-180,KSFB KVRB KSFB,2,2,,2,,,,,,2,,6,6,0,,
+6/6/2025,N4417P,PA-28-161,KOCF,2,2,,2,,,,,,0,,3,3,0,,
+6/12/2025,#100234,C-172,KLEE KVRB KLEE,0:48,0:48,,0:48,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+6/12/2025,N4417P,PA-28-161,X05,2,2,,2,,,,,,2,,3,3,0,,
+6/15/2025,#100234,C-172,KVRB KORL KVRB,0.8,0.8,,0.8,,0.8,,,,1,,5,0,5,,
+6/15/2025,N4417P,PA-28-161,KSFB KVRB KSFB,0.8,0.8,,0.8,,0.8,,,,0,,3,0,3,,
+6/16/2025,N9192T,PA-44-180,KLEE KMLB KLEE,1.3,1.3,,1.3,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+6/16/2025,N733GB,C-172N,KOCF,1.2,1.2,,1.2,,,,,,0,,3,3,0,,"Student: K. Alvarez, steep turns"
+6/18/2025,N9192T,PA-44-180,KISM,0.8,0.8,,,,0.8,,,,0,,,0,6,,
+6/18/2025,N9192T,PA-44-180,X04 KORL X04,1.5,1.5,,1.5,,,,,,1,,3,3,0,,"Engine-out practice, ""simulated"" only"
+6/24/2025,#100234,C-172,X05 KISM X05,1.5,1.5,,1.5,,,,,,2,,6,6,0,,"Engine-out practice, ""simulated"" only"
+6/24/2025,N4417P,PA-28-161,KLEE,0.8,0.8,,0.8,,,,,,0,,5,5,0,,
+6/24/2025,N9192T,PA-44-180,KGIF KEYW KFXE KGIF,5.8,5.8,,5.8,,,,,,2,,1,1,0,5.8,"Customs at MYNN, 45 min delay"
+6/28/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+6/28/2025,N4417P,PA-28-161,KOCF KDED KOCF,1.2,1.2,,,,,,,,1,,3,3,0,,"Engine-out practice, ""simulated"" only"
+7/2/2025,#100234,C-172,KORL KVRB KORL,1.3,1.3,,1.3,,,,,,1,,1,1,0,,"Customs at MYNN, 45 min delay"
+7/4/2025,#100234,C-172,KGIF KJAX MYAM KGIF,8.4,8.4,,,,,,,,0,,1,1,0,8.4,"Engine-out practice, ""simulated"" only"
+7/7/2025,N733GB,C-172N,korl,0.8,0.8,,0.8,,,,,,0,,,3,0,,"Customs at MYNN, 45 min delay"
+7/9/2025,#100234,C-172,X04 KTLH KPBI X04,7.3,7.3,,7.3,,,,,,0,,,1,0,7.3,"Student: K. Alvarez, steep turns"
+7/13/2025,N733GB,C-172N,X04 KOCF X04,0.8,0.8,,0.8,,,,,,1,,5,5,0,,"Customs at MYNN, 45 min delay"
+7/14/2025,N733GB,C-172N,X05 KDED X05,0.8,0.8,,0.8,,,,,,1,,1,1,0,,
+7/17/2025,N9192T,PA-44-180,KOCF KSFB KOCF,2,2,,2,,2,,,,1,,3,0,3,,"Student: K. Alvarez, steep turns"
+7/17/2025,N9192T,PA-44-180,KISM,1.8,1.8,,,,,,,,2,,6,6,0,,
+7/17/2025,N733GB,C-172N,KLEE KISM KLEE,1.8,1.8,,1.8,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+7/20/2025,N733GB,C-172N,KGIF KORL KGIF,1.3,1.3,,,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+7/20/2025,#100234,C-172,KISM KPBI KEYW KISM,6,6,,6,,,,,,0,,1,1,0,6,"Cross-country with fuel stop, then
+returned VFR on top"
+7/26/2025,N9192T,PA-44-180,KMLB KMLB KMLB,1.2,1.2,,,,,,,,1,,6,6,0,,"Customs at MYNN, 45 min delay"
+7/30/2025,#100234,C-172,KSFB KJAX KSFB,2:54,2:54,,,,,,,,2,,5,5,0,2:54,
+7/30/2025,N4417P,PA-28-161,KDED KVRB KDED,1,1,,1,,,,,,0,,3,3,0,,"Engine-out practice, ""simulated"" only"
+7/30/2025,#100234,C-172,KLEE KOCF KLEE,2,2,,2,,2,,,,2,,3,0,3,,"Customs at MYNN, 45 min delay"
+8/2/2025,N733GB,C-172N,KSFB KVRB KSFB,1.2,1.2,,1.2,,,,,,1,,1,1,0,,"Stage check, student passed"
+8/4/2025,N733GB,C-172N,KOCF,2,2,,2,,,,,,2,,1,1,0,,
+8/4/2025,N733GB,C-172N,KSFB MYNN KSRQ KSFB,8,8,,,,,,,,0,,1,1,0,8,
+8/4/2025,N733GB,C-172N,KMLB,0.8,0.8,,0.8,,,,,,1,,5,5,0,,"Stage check, student passed"
+8/10/2025,N9192T,PA-44-180,KSFB KOCF KSFB,1,1,,,,,,,,0,,5,5,0,,"Customs at MYNN, 45 min delay"
+8/10/2025,#100234,C-172,KISM KOCF KISM,1.8,1.8,,1.8,,,,,,1,,6,6,0,,
+8/13/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+8/19/2025,#100234,C-172,X04,1.3,1.3,,1.3,,,,,,2,,6,6,0,,"Engine-out practice, ""simulated"" only"
+8/19/2025,N733GB,C-172N,KVRB KOCF KVRB,1.8,1.8,,,,,,,,0,,6,6,0,,"Engine-out practice, ""simulated"" only"
+8/22/2025,N733GB,C-172N,KMLB,2,2,,2,,,,,,2,,3,3,0,,
+8/25/2025,#100234,C-172,KGIF KVRB KGIF,1.8,1.8,,1.8,,,,,,0,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+8/25/2025,#100234,C-172,KMLB KISM KMLB,0:48,0:48,,0:48,,,,,,2,,6,6,0,,"Student: K. Alvarez, steep turns"
+8/25/2025,N733GB,C-172N,KOCF KLEE KOCF,1.2,1.2,,1.2,,,,,,1,,1,1,0,,
+8/27/2025,#100234,C-172,korl  KLEE korl,1.5,1.5,,1.5,,,,,,1,,1,1,0,,
+8/27/2025,N4417P,PA-28-161,KLEE,1.2,1.2,,1.2,,,,,,0,,1,1,0,,"Student: K. Alvarez, steep turns"
+8/27/2025,#100234,C-172,KBOW,0.8,0.8,,,,,,,,0,,,3,0,,"Engine-out practice, ""simulated"" only"
+9/1/2025,SIM-RB1,Redbird TD2,,0,,,,,,,1.2,1.5,3,Yes,,,,,"Redbird session, partial panel"
+9/1/2025,N4417P,PA-28-161,KDED,1.8,1.8,,1.8,,,,,,0,,5,5,0,,"Engine-out practice, ""simulated"" only"
+9/5/2025,N4417P,PA-28-161,KORL KFXE KSRQ KORL,5,5,,5,,,,,,0,,6,6,0,5,"Cross-country with fuel stop, then
+returned VFR on top"
+9/5/2025,N4417P,PA-28-161,korl  KVRB korl,1.2,1.2,,,,,,,,1,,5,5,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+9/5/2025,#100234,C-172,KSFB KISM KSFB,2,2,,2,,,,,,2,,3,3,0,,
+9/7/2025,#100234,C-172,KLEE,2,2,,2,,,,,,2,,,3,0,,"Customs at MYNN, 45 min delay"
+9/7/2025,#100234,C-172,korl  KMLB korl,1.3,1.3,,1.3,,,,,,1,,6,6,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+9/10/2025,N733GB,C-172N,KDED,2,2,,2,,2,,,,0,,6,0,6,,"Customs at MYNN, 45 min delay"
+9/13/2025,N4417P,PA-28-161,kism KMLB  kism,1.8,1.8,,,,,,,,2,,3,3,0,,
+9/13/2025,N4417P,PA-28-161,KBOW,1.8,1.8,,,,,,,,2,,5,5,0,,
+9/14/2025,N733GB,C-172N,KBOW KDED KBOW,1.3,1.3,,,,,,,,0,,1,1,0,,"Engine-out practice, ""simulated"" only"
+9/18/2025,#100234,C-172,KISM,1.2,1.2,,,,,,,,0,,6,6,0,,
+9/18/2025,N4417P,PA-28-161,kism KOCF  kism,1.3,1.3,,1.3,,,,,,0,,5,5,0,,
+9/20/2025,N733GB,C-172N,KSFB KMLB KSFB,1.5,1.5,,,,,,,,1,,6,6,0,,
+9/20/2025,N9192T,PA-44-180,X04 KPBI X04,3.7,3.7,,,,,,,,2,,5,5,0,3.7,"Engine-out practice, ""simulated"" only"
+9/21/2025,N4417P,PA-28-161,KOCF X04 KOCF,0.8,0.8,,0.8,,,,,,2,,,6,0,,"Engine-out practice, ""simulated"" only"
+9/21/2025,#100234,C-172,KBOW,1.2,1.2,,1.2,,1.2,,,,1,,3,0,3,,
+9/21/2025,N4417P,PA-28-161,kism KVRB  kism,1.5,1.5,,1.5,,,,,,2,,5,5,0,,
+9/24/2025,N4417P,PA-28-161,KORL KVRB KORL,1,1,,1,,,,,,0,,1,1,0,,"Cross-country with fuel stop, then
+returned VFR on top"
+9/24/2025,N4417P,PA-28-161,korl,1.8,1.8,,1.8,,,,,,1,,3,3,0,,
+9/29/2025,N4417P,PA-28-161,KOCF KMLB KOCF,0.8,0.8,,0.8,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+9/29/2025,N4417P,PA-28-161,KBOW KTLH KBOW,4.7,4.7,,4.7,,,,,,0,,6,6,0,4.7,
+9/29/2025,#100234,C-172,KORL X05 KORL,1.5,1.5,,1.5,,,,,,2,,,5,0,,"Customs at MYNN, 45 min delay"
+9/30/2025,N9192T,PA-44-180,KDED KSRQ KDED,3.2,3.2,,,,,,,,0,,5,5,0,3.2,"Student: K. Alvarez, steep turns"
+9/30/2025,#100234,C-172,KORL KPBI KORL,3.4,3.4,,3.4,,,,,,1,,1,1,0,3.4,
+9/30/2025,N9192T,PA-44-180,KMLB KISM KMLB,1.3,1.3,,1.3,,,,,,2,,5,5,0,,
+10/1/2025,N9192T,PA-44-180,X05 KMLB X05,2,2,,2,,,,,,0,,1,1,0,,
+10/1/2025,N9192T,PA-44-180,korl,2,2,,2,,,,,,1,,5,5,0,,"Engine-out practice, ""simulated"" only"
+10/1/2025,#100234,C-172,X04 KEYW X04,5.7,5.7,,5.7,,,,,,2,,1,1,0,5.7,"Stage check, student passed"
+10/7/2025,#100234,C-172,KORL,1.2,1.2,,,,,,,,0,,1,1,0,,"Customs at MYNN, 45 min delay"
+10/11/2025,N9192T,PA-44-180,KBOW,0.8,0.8,,0.8,,,,,,2,,6,6,0,,
+10/11/2025,#100234,C-172,KMLB X05 KMLB,0.8,0.8,,0.8,,,,,,0,,6,6,0,,
+10/11/2025,N733GB,C-172N,KORL X04 KORL,1.2,1.2,,1.2,,,,,,0,,6,6,0,,"Customs at MYNN, 45 min delay"
+10/14/2025,N733GB,C-172N,KLEE,1,1,,1,,1,,,,0,,6,0,6,,"Student: K. Alvarez, steep turns"
+10/14/2025,N733GB,C-172N,X04 KISM X04,1,1,,,,1,,,,1,,3,0,3,,"Cross-country with fuel stop, then
+returned VFR on top"
+10/14/2025,N9192T,PA-44-180,X05 KEYW MYNN X05,8.8,8.8,,8.8,,,,,,2,,3,3,0,8.8,"Stage check, student passed"
