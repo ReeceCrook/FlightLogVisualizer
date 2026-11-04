@@ -4,7 +4,7 @@ from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
 
 
 class StrictModel(BaseModel):
-    model_config = ConfigDict(strict=True)
+    model_config = ConfigDict(strict=True, extra="forbid")
 
 
 class Flight(StrictModel):

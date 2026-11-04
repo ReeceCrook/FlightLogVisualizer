@@ -1,7 +1,7 @@
 [project]
 name = "flightlog"
 version = "0.1.0"
-description = "Add your description here"
+description = "Interactive 3D globe and stats dashboard for pilot logbooks"
 readme = "README.md"
 authors = [
     { name = "Reece", email = "reececrook16@gmail.com" }
@@ -39,6 +39,10 @@ extend-select = [
     "PD",
     # Keeps test suite uniform as it grows
     "PT",
+    # Use "is None" / "is False", never "==": 0 == False is True,
+    # which would blur "not recorded" (None) with "recorded as zero" (0)
+    "E711",
+    "E712",
 ]
 
 [tool.pytest]
