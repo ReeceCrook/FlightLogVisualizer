@@ -6,9 +6,9 @@ from pydantic import ValidationError
 from flightlog.models import Flight
 
 
-def test_minimal_flight_keeps_required_values_unchanged():
-
-    my_raw_flight = {
+@pytest.fixture
+def valid_flight_data():
+    return {
         "source_row": 2,
         "logged_date": date(2026, 11, 4),
         "origin_raw": " kism",
@@ -16,7 +16,9 @@ def test_minimal_flight_keeps_required_values_unchanged():
         "total_minutes": 144,
     }
 
-    my_processed_flight = Flight.model_validate(my_raw_flight)
+
+def test_minimal_flight_keeps_required_values_unchanged(valid_flight_data):
+    my_processed_flight = Flight.model_validate(valid_flight_data)
     assert my_processed_flight.source_row == 2
     assert my_processed_flight.logged_date == date(2026, 11, 4)
     assert my_processed_flight.origin_raw == " kism"
@@ -24,16 +26,8 @@ def test_minimal_flight_keeps_required_values_unchanged():
     assert my_processed_flight.total_minutes == 144
 
 
-def test_optional_fields_defaults():
-    my_raw_flight = {
-        "source_row": 2,
-        "logged_date": date(2026, 11, 4),
-        "origin_raw": " kism",
-        "dest_raw": "KPBI",
-        "total_minutes": 144,
-    }
-
-    my_processed_flight = Flight.model_validate(my_raw_flight)
+def test_optional_fields_defaults(valid_flight_data):
+    my_processed_flight = Flight.model_validate(valid_flight_data)
     # When
     assert my_processed_flight.departure_utc is None
 
@@ -68,17 +62,11 @@ def test_optional_fields_defaults():
     assert my_processed_flight.extras == {}
 
 
-def test_negative_minutes_are_rejected():
-    my_raw_flight = {
-        "source_row": 2,
-        "logged_date": date(2026, 11, 4),
-        "origin_raw": " kism",
-        "dest_raw": "KPBI",
-        "total_minutes": -144,
-    }
+def test_negative_minutes_are_rejected(valid_flight_data):
+    valid_flight_data["total_minutes"] = -144
 
     with pytest.raises(ValidationError) as exc_info:
-        Flight.model_validate(my_raw_flight)
+        Flight.model_validate(valid_flight_data)
 
     assert exc_info.value.errors()[0]["loc"] == ("total_minutes",)
     assert exc_info.value.errors()[0]["type"] == "greater_than_equal"
