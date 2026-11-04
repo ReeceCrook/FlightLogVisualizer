@@ -5,6 +5,19 @@ from pydantic import ValidationError
 
 from flightlog.models import Flight
 
+NON_NEGATIVE_FIELDS = [
+    "total_minutes",
+    "pic_minutes",
+    "sic_minutes",
+    "night_minutes",
+    "ifr_minutes",
+    "day_takeoffs",
+    "day_landings",
+    "night_takeoffs",
+    "night_landings",
+    "approaches",
+]
+
 
 @pytest.fixture
 def valid_flight_data():
@@ -62,11 +75,37 @@ def test_optional_fields_defaults(valid_flight_data):
     assert my_processed_flight.extras == {}
 
 
-def test_negative_minutes_are_rejected(valid_flight_data):
-    valid_flight_data["total_minutes"] = -144
+@pytest.mark.parametrize("field_name", NON_NEGATIVE_FIELDS)
+def test_negative_values_are_rejected(valid_flight_data, field_name):
+    valid_flight_data[field_name] = -1
 
     with pytest.raises(ValidationError) as exc_info:
         Flight.model_validate(valid_flight_data)
 
-    assert exc_info.value.errors()[0]["loc"] == ("total_minutes",)
+    assert exc_info.value.errors()[0]["loc"] == (field_name,)
     assert exc_info.value.errors()[0]["type"] == "greater_than_equal"
+
+
+@pytest.mark.parametrize("field_name", NON_NEGATIVE_FIELDS)
+def test_zero_values_are_accepted(valid_flight_data, field_name):
+    valid_flight_data[field_name] = 0
+    my_processed_flight = Flight.model_validate(valid_flight_data)
+
+    assert getattr(my_processed_flight, field_name) == 0
+
+
+def test_source_row_zero_is_rejected(valid_flight_data):
+    valid_flight_data["source_row"] = 0
+
+    with pytest.raises(ValidationError) as exc_info:
+        Flight.model_validate(valid_flight_data)
+
+    assert exc_info.value.errors()[0]["loc"] == ("source_row",)
+    assert exc_info.value.errors()[0]["type"] == "greater_than_equal"
+
+
+def test_source_row_one_is_accepted(valid_flight_data):
+    valid_flight_data["source_row"] = 1
+    my_processed_flight = Flight.model_validate(valid_flight_data)
+
+    assert my_processed_flight.source_row == 1
