@@ -5,6 +5,14 @@ from pydantic import ValidationError
 
 from flightlog.models import Flight
 
+REQUIRED_FIELDS = [
+    "source_row",
+    "logged_date",
+    "origin_raw",
+    "dest_raw",
+    "total_minutes",
+]
+
 NON_NEGATIVE_FIELDS = [
     "total_minutes",
     "pic_minutes",
@@ -109,3 +117,15 @@ def test_source_row_one_is_accepted(valid_flight_data):
     my_processed_flight = Flight.model_validate(valid_flight_data)
 
     assert my_processed_flight.source_row == 1
+
+
+@pytest.mark.parametrize("field_name", REQUIRED_FIELDS)
+def test_missing_required_field_is_rejected(valid_flight_data, field_name):
+    valid_flight_data.pop(field_name)
+
+    with pytest.raises(ValidationError) as exc_info:
+        Flight.model_validate(valid_flight_data)
+
+    assert exc_info.value.errors()[0]["loc"] == (field_name,)
+    assert exc_info.value.errors()[0]["type"] == "missing"
+    assert len(exc_info.value.errors()) == 1
