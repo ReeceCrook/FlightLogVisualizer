@@ -26,6 +26,23 @@ NON_NEGATIVE_FIELDS = [
     "approaches",
 ]
 
+STRICT_TYPE_CASES = [
+    # field_name, bad value, expected type
+    ("total_minutes", "90", "int_type"),
+    ("total_minutes", 90.0, "int_type"),
+    ("total_minutes", True, "int_type"),
+    ("pic_minutes", "90", "int_type"),
+    ("pic_minutes", 90.0, "int_type"),
+    ("source_row", "2", "int_type"),
+    ("origin_airport_id", "3384", "int_type"),
+    ("logged_date", "2026-11-04", "date_type"),
+    ("is_simulator", "True", "bool_type"),
+    ("is_simulator", 1, "bool_type"),
+    ("origin_raw", 123, "string_type"),
+    ("tail", 12345, "string_type"),
+    ("via_raw", "KCOS", "list_type"),
+]
+
 
 @pytest.fixture
 def valid_flight_data():
@@ -128,4 +145,30 @@ def test_missing_required_field_is_rejected(valid_flight_data, field_name):
 
     assert exc_info.value.errors()[0]["loc"] == (field_name,)
     assert exc_info.value.errors()[0]["type"] == "missing"
+    assert len(exc_info.value.errors()) == 1
+
+
+@pytest.mark.parametrize(
+    ("field_name", "bad_value", "expected_type"), STRICT_TYPE_CASES
+)
+def test_wrong_type_is_rejected_not_converted(
+    valid_flight_data, field_name, bad_value, expected_type
+):
+    valid_flight_data[field_name] = bad_value
+
+    with pytest.raises(ValidationError) as exc_info:
+        Flight.model_validate(valid_flight_data)
+    assert exc_info.value.errors()[0]["loc"] == (field_name,)
+    assert exc_info.value.errors()[0]["type"] == expected_type
+    assert len(exc_info.value.errors()) == 1
+
+
+def test_unknown_field_is_rejected(valid_flight_data):
+    valid_flight_data["pic_minute"] = 144
+
+    with pytest.raises(ValidationError) as exc_info:
+        Flight.model_validate(valid_flight_data)
+
+    assert exc_info.value.errors()[0]["loc"] == ("pic_minute",)
+    assert exc_info.value.errors()[0]["type"] == "extra_forbidden"
     assert len(exc_info.value.errors()) == 1
